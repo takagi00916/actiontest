@@ -1,3 +1,4 @@
+name: Repo Access
 on:
   issues:
     types: [opened]
